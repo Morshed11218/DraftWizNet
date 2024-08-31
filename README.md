@@ -1,4 +1,4 @@
-# DraftWiz.com
+# DraftWiz.net
 
 I built a website for fantasy sports that offers tools to give you an edge during your fantasy draft, along with other helpful in-season features. Best of all, it’s completely free to use and doesn’t require any sign-up. It supports Sleeper, Yahoo and Espn league.
 
